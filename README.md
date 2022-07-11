@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # College-Material
 This repo contains all the study material of my College year in the couse of CsBS and SEM-wise....
 
@@ -84,3 +85,7 @@ Link | Name
 ## [Fourth Year](https://github.com/vk0810-k/College-BTECH/tree/main/Fourth%20Year) 
 ### Well!!!! Wait for a year for this :smile:	
 "# College-B.Tech" 
+=======
+# College-B.Tech
+# This repository contains all the 4 years B.Tech CsBs Study Material 
+>>>>>>> 2805b2650d631957369cc2491aafe711a2518161
