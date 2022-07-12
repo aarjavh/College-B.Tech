@@ -86,8 +86,8 @@ Link | Name
  Link | Name
 ------------ | -------------
 [UDSA](https://github.com/vk0810-k/College-B.Tech/tree/main/Third%20Year/SEM%20VI/Artificial%20Intelligence%20-%20Ashish%20Patel) | UDSA (Usability Design of Software Applications)
-[IT/WS](https://github.com/vk0810-k/College-B.Tech/tree/main/Third%20Year/SEM%20VI/Business%20Communications%20and%20Value%20Science%20-%20Poonam%20Hans) | IT/WS (IT Workshop Skylab / Matlab)
+[IT/WS](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year/SEM%20VII/IT%20Workshop%20Skylab%20Matlab%20-%20Prof.%20Swati%20Rastogi) | IT/WS (IT Workshop Skylab / Matlab)
 [FM](https://github.com/vk0810-k/College-B.Tech/tree/main/Third%20Year/SEM%20VI/Computer%20Networks%20-%20Amrita%20Banerjee) | FM (Financial Management)
 [HRM](https://github.com/vk0810-k/College-B.Tech/tree/main/Third%20Year/SEM%20VI/Financial%20and%20Cost%20Accounting%20-%20Jasmin%20Bid) | HRM (Human Resource Management)
-[CT](https://github.com/vk0810-k/College-B.Tech/tree/main/Third%20Year/SEM%20VI/Information%20Security%20-%20Pranita%20Binnar) | CT (Cryptology)
-[ASTMA](https://github.com/vk0810-k/College-B.Tech/tree/main/Third%20Year/SEM%20VI/Modern%20Web%20Applications%20-%20Ashish%20Patel) | ASTMA (Advanced social Text and media analysis) 
+[CT](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year/SEM%20VII/Cryptology%20-%20%20Sarika%20Bansal) | CT (Cryptology)
+[ASTMA](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year/SEM%20VII/Advanced%20social%20Text%20and%20media%20analysis%20-%20Prof.%20Chandravadan%20Prajapati) | ASTMA (Advanced social Text and media analysis) 
