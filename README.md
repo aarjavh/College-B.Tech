@@ -82,7 +82,7 @@ Link | Name
 [MWA](https://github.com/vk0810-k/College-B.Tech/tree/main/Third%20Year/SEM%20VI/Modern%20Web%20Applications%20-%20Ashish%20Patel) | MWA (Modern Web Applications)
 
 ## [Fourth Year](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year) 
-### [SEM VII](https://github.com/vk0810-k/College-B.Tech/tree/main/fOURTH%20Year/SEM%20VII)
+### [SEM VII](https://github.com/vk0810-k/College-B.Tech/tree/main/Fourth%20Year/SEM%20VII)
  Link | Name
 ------------ | -------------
 [UDSA](https://github.com/vk0810-k/College-B.Tech/tree/main/Third%20Year/SEM%20VI/Artificial%20Intelligence%20-%20Ashish%20Patel) | UDSA (Usability Design of Software Applications)
